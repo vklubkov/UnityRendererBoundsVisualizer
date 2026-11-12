@@ -1,0 +1,18 @@
+{
+    "name": "RendererBoundsVisualizer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3cab00ab06f0e2c469c9a930ec07007a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
